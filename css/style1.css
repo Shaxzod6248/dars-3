@@ -1,0 +1,19 @@
+h1 {
+  background-color: pink;
+  text-align: center;
+}
+.penguin {
+  background-color: pink;
+  width: 300px;
+}
+.fruit {
+  background-color: lightgreen;
+  width: 300px;
+}
+.panda {
+  background-color: orange;
+  width: 170px;
+}
+.rounded {
+  border-radius: 20mm;
+}
